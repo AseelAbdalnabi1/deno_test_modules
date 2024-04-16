@@ -1,0 +1,6 @@
+{
+    "name": "@deno-test2/deno-module-test2",
+    "version": "1.0.1",
+    "description": "a test for publishing Deno modules",
+    "exports": "./mod.ts"
+  }

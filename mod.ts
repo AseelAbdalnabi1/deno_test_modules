@@ -1,0 +1,1 @@
+console.log('this is a test for publishing a module on Deno');
